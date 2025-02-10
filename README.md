@@ -2,6 +2,7 @@
 
 ## AIFFEL-DLThon??
   - AIFFEL 과정중 진행한 데이터톤(Datathon)을 의미
+  - 총 6일간 진행(24.10.02~24.10.07)
   - 자세한 정보는 아래 이미지를 참조 
 ![image](https://github.com/user-attachments/assets/c2f375eb-40b6-4b7b-9dec-adab8fd00fdc)
 ![image](https://github.com/user-attachments/assets/3a2240e4-f036-4027-91d2-5b1f799fa587)
