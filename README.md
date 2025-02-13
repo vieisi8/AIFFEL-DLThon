@@ -7,8 +7,22 @@
 ![image](https://github.com/user-attachments/assets/c2f375eb-40b6-4b7b-9dec-adab8fd00fdc)
 ![image](https://github.com/user-attachments/assets/3a2240e4-f036-4027-91d2-5b1f799fa587)
 
-## 기여
-  - 데이터톤 과정중 저는 사전 훈련 모델 선택, Wandb을 통한 사전 훈련 모델 Fine-tuning 및 Label 예측에 기여했습니다.
+## 📚 기술 스택
+  - AI
+    - Hugging Face
+    - WandB
+  - Back-end
+    - Python
+    - EDA
+    - Matplotlib
+    - Seaborn
+    - Sklearn
+    - TensorFlow
+    - PyTorch
+
+## 프로젝트 기여
+  - 사전 훈련 모델 선택, Wandb을 통한 사전 훈련 모델 Fine-tuning
+  - Label 예측
 
 ### 사전 훈련 모델 선택
   - 데이터셋이 한국말로 되어 있는 관계로 한국어 사전 훈련 모델 선택
@@ -22,4 +36,4 @@
 
 ## Leaderboard 순위
 ![image](https://github.com/user-attachments/assets/3109c422-4364-4d94-9c2f-000384ee4ccb)
-  - 6개팀 중 3위로 마무리
+  - 6개 팀 중 3위로 마무리
