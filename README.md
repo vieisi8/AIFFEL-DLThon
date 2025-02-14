@@ -20,10 +20,10 @@
     - TensorFlow
     - PyTorch
 
-## 프로젝트 기여
+## 🧑‍💻 프로젝트 기여
   - 사전 훈련 모델 선택, Wandb을 통한 사전 훈련 모델 Fine-tuning
   - Label 예측
 
-## Leaderboard 순위
+## 📈 Leaderboard 순위
 ![image](https://github.com/user-attachments/assets/3109c422-4364-4d94-9c2f-000384ee4ccb)
   - 6개 팀 중 3위로 마무리
